@@ -2,6 +2,8 @@
 
 This is a section of the Cyfrin Foundry Solidity Course.
 
+*[⭐️ (4:47:00) | Lesson 13: Foundry Upgradable Contracts](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=17220s)*
+
 *This is for demo purposes only. Upgradeable contracts are a menance and in general should be avoided for 
 
 
