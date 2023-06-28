@@ -4,7 +4,7 @@ out = "out"
 libs = ["lib"]
 ffi = true
 
-remappings = ['@openzeppelin/contracts=lib/openzeppelin-contracts/contracts', '@openzeppelin/contracts-upgradeable@4.8.3=lib/openzeppelin-contracts-upgradeable/contracts']
+remappings = ['@openzeppelin/contracts=lib/openzeppelin-contracts/contracts', '@openzeppelin/contracts-upgradeable=lib/openzeppelin-contracts-upgradeable/contracts']
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_API_KEY}" }
