@@ -6,4 +6,4 @@
 	url = https://github.com/openzeppelin/openzeppelin-contracts-upgradeable
 [submodule "lib/foundry-devops"]
 	path = lib/foundry-devops
-	url = https://github.com/cyfrin/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
